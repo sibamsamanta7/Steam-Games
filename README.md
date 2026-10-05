@@ -9,6 +9,7 @@ Two end-to-end data science projects built on a snapshot of **130,100 Steam titl
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Contents
 
@@ -146,6 +147,7 @@ Then open a notebook with `jupyter notebook`.
 ```
 Steam-Games/
 |-- README.md
+|-- LICENSE
 |-- steam-game-market-intelligence.ipynb
 |-- steam-game-recommendation-system.ipynb
 ```
@@ -159,7 +161,9 @@ Steam-Games/
 
 ## License
 
-Add a `LICENSE` file before publishing. Check that the license you choose is compatible with the terms under which the underlying Steam data was collected.
+The code and notebooks in this repository are released under the [MIT License](LICENSE). Copyright (c) 2026 sibamsamanta7.
+
+The license covers the repository contents only. The dataset is not included in this repository and is not covered by the MIT License; it remains subject to the terms on its [Kaggle page](https://www.kaggle.com/datasets/sibamsamanta07/130k-steam-games-prices-tags-reviews-ccu/data) and to the terms under which the underlying Steam data was collected.
 
 ## Author
 
